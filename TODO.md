@@ -1,0 +1,3 @@
+- [x] Edit index.html: Update onclick attributes to match JS functions, remove rowspan, fix closing tag
+- [x] Edit style.css: Fix class name to .CALCULATOR, correct CSS syntax errors
+- [ ] Test by opening index.html in browser
